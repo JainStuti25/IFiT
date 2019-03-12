@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/get_bed"
+            android:icon="@drawable/ic_get_bed_black_24dp"
+            android:title="Ask for a Bed" />
+        <!--<item
+            android:id="@+id/get_ambulance"
+            android:icon="@drawable/ic_call_ambulance_black_24dp"
+            android:title="Get an Ambulance" />
+        --><item
+            android:id="@+id/ask_doctor"
+            android:icon="@drawable/ic_tak_doctor_black_24dp"
+            android:title="Look for a Doctor" />
+        <item
+            android:id="@+id/chatbot"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="Feeling Low? Let's Talk" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_blood_black_24dp"
+            android:title="Request Blood" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
