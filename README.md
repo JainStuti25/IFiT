@@ -13,4 +13,4 @@ The idea of our app is simple yet useful and handy. We propose to build an andro
 - User can raise blood Request using Alerts.
 - Emergency call to Important contacts.
 
-![](https://photos.app.goo.gl/dunrnrJ4MKvMsg4h7.png)
+![](Screenshot_2020-10-22-23-20-49-902_com.prateek.ifit.png)
