@@ -12,3 +12,5 @@ The idea of our app is simple yet useful and handy. We propose to build an andro
 - Asking for Bed at Hospitals during Emergency.
 - User can raise blood Request using Alerts.
 - Emergency call to Important contacts.
+
+![](https://photos.app.goo.gl/dunrnrJ4MKvMsg4h7.png)
